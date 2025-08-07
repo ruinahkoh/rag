@@ -1,5 +1,5 @@
-# News Search application demonstrationg RAG
-This repo demonstrates the ability to use Retrival Augmented Generation to search for tech news articles.
+# News Search application demonstrating RAG
+This repo demonstrates the ability to use Retrival Augmented Generation to search for tech news articles. 
 
 1. News articles are collected using the newspaper-api
 2. Data Processing and feature selection
